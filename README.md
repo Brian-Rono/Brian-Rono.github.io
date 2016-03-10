@@ -1,2 +1,2 @@
 # Brian_Rono.github.io
-GitHub page
+After learning Git and GitHub,I decided my first repository will be my GitHub page.
